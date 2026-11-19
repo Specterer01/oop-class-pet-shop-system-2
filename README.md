@@ -3,7 +3,7 @@ Pet Shop System - continuation of Assignment 1
 
 Requirements: JDK 11 or newer.
 
-Compile (from this folder):
+Compile:
     mkdir out
     javac -d out src/*.java
 
